@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "my-trigger-function",
+    "private": false,
+    "can_evaluate": true,
+    "disable_arg_logs": false,
+    "run_as_system": true,
+    "run_as_user_id": "",
+    "run_as_user_id_script_source": ""
+  }
+]
