@@ -1,3 +1,3 @@
 exports = (changeEvent) => {
-  console.log(changeEvent.updateDescription);
+  console.log(JSON.stringify(changeEvent.updateDescription));
 }
