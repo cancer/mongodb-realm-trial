@@ -1,5 +1,10 @@
 [
   {
+    "name": "myFunction",
+    "private": false,
+    "run_as_system": true
+  },
+  {
     "name": "myTriggerFunction",
     "private": false,
     "can_evaluate": true,
