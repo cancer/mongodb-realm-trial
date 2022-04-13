@@ -1,0 +1,15 @@
+{
+  "type": "DATABASE",
+  "name": "myDatabaseTrigger",
+  "function_name": "myTriggerFunction",
+  "config": {
+    "service_name": "mongodb-atlas",
+    "database": "sample_analytics",
+    "collection": "customers",
+    "operation_types": ["UPDATE"],
+    "unordered": false,
+    "full_document": true,
+    "match": {}
+  },
+  "disabled": false
+}
