@@ -1,6 +1,6 @@
 [
   {
-    "name": "my-trigger-function",
+    "name": "myTriggerFunction",
     "private": false,
     "can_evaluate": true,
     "disable_arg_logs": false,
